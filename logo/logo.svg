@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+        "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.2"
+     baseProfile="tiny"
+     viewBox="0 0 214 162"
+     xmlns="http://www.w3.org/2000/svg">
+
+    <g class="butterfly-background-animation">
+        <path d="M104,53 L83.5,116 L106.5,138 L129.5,116 L108,53 Z"
+              class="butterfly-background"/> <!--butterfly body background-->
+        <path d="M10,43 l0,-33 l32,0 l63,43 l-33,99 l-36,-17 l0,-37 l32,-20 l-17,11 Z"
+              class="butterfly-background"/>  <!--left wing background-->
+        <path d="M203,43 l0,-33 l-32,0 l-63,43 l33,99 l36,-17 l0,-37 l-32,-20 l17,11 Z"
+              class="butterfly-background"/> <!--right wing background-->
+    </g>
+
+    <path d="M10,10 l32,0 l63,43 l-33,99 l-36,-17 l0,-37 l32,-20 l-16,10 l-42,-45 Z"
+          class="butterfly-line butterfly-outline butterfly-outline-animation"/> <!--left wing outline-->
+    <path d="M203,10 l-32,0 l-63,43 l33,99 l36,-17 l0,-37 l-32,-20 l16,10 l42,-45 Z"
+          class="butterfly-line butterfly-outline butterfly-outline-animation"/> <!--left wing outline-->
+
+    <path d="M46,14 L85,116 L106,138" class="butterfly-line butterfly-v butterfly-v-animation"/>
+    <path d="M167,14 L128,116 L106,138" class="butterfly-line butterfly-v butterfly-v-animation"/>
+    <!--V shape-->
+
+    <path d="M10,10 l32,0 l63,43"
+          class="butterfly-line butterfly-outline-overwrite butterfly-outline-overwrite-animation"/> <!--left wing upper/overwrite v-->
+    <path d="M203,10 l-32,0 l-63,43"
+          class="butterfly-line butterfly-outline-overwrite butterfly-outline-overwrite-animation"/> <!--right wing upper/overwrite-->
+
+    <style>
+        /* Base colors and strokes for the paths*/
+        .butterfly-background {
+            stroke: none;
+            fill: #96a3b3;
+        }
+
+        .butterfly-outline {
+            stroke: #444e67;
+        }
+
+
+        .butterfly-outline-overwrite {
+            stroke: #444e67;
+        }
+
+        .butterfly-v {
+            stroke: #ff6123;
+        }
+
+        .butterfly-line {
+            stroke-width: 6;
+            stroke-linecap: round;
+            fill: none;
+        }
+    </style>
+</svg>
