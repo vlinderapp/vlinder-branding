@@ -11,6 +11,19 @@
 
 </div>
 
+
+## Credits
+
+This software is developed by:
+
+- [Alexander Giaguals](https://www.linkedin.com/in/alexander-giagoulas/)
+- [Bjarne Koll](https://www.linkedin.com/in/bjarne-koll/)
+- [Hans Hüppelshäuser](https://www.linkedin.com/in/hans-hueppelshaeuser/)
+- [Marvin Krämer](https://www.linkedin.com/in/marvin-kraemer/)
+- [Maximillian Tschirner](https://www.linkedin.com/in/maximillian-tschirner-548059205/)
+- [Sebastian Schumm](https://www.linkedin.com/in/sebastian-schumm-476a861a1/)
+
+
 ## Support
 
 <a href="https://www.buymeacoffee.com/vlinderapp" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
